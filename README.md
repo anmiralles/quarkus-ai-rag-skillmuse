@@ -25,8 +25,6 @@ You can run your application in dev mode that enables live coding using:
 ./mvnw compile quarkus:dev
 ```
 
-Finally you can start submitting your requests like this:
+Finally you can start submitting your questions through the UI interface:
 
-```
-curl -i -X POST --header 'Content-Type: text/plain' --data "tell me more about Sevilla" http://localhost:8080/chat
-```
+http://localhost:8080
