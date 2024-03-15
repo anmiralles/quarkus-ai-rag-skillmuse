@@ -1,0 +1,10 @@
+System Administrators (SysAdmins) focus on the maintenance, configuration, and reliable operation of computer systems and servers. They are responsible for ensuring the infrastructure's security, stability, and efficiency. Essential skills for SysAdmins include:
+
+CI/CD Pipelines & Virtualization: Setting up and maintaining continuous integration and continuous delivery pipelines, as well as managing virtual environments to optimize resource utilization.
+Hardware Enablement, Kernel, Networking, and Linux Processes: Deep understanding of the hardware-software interface, Linux kernel customization, network configuration, and process management for optimal system performance.
+Security & InfoSec: Implementing robust security protocols and practices to protect the system and data from unauthorized access or breaches.
+RH Enterprise Linux (RHEL), Ansible Automation: Expertise in managing RHEL systems, using Ansible for automation across networking, third-party APIs, and Windows environments.
+Cloud Platforms: Managing and configuring cloud services across AWS, Azure, Google Cloud Platform, and IBM Cloud to ensure scalable and reliable infrastructure.
+Containerization for Kubernetes, RH OpenShift, and Cloud-native Infrastructure: Managing containerized applications, deploying and maintaining Red Hat OpenShift environments, and working with Kubernetes to orchestrate container deployment.
+Virtual Machine and Container Migration: Utilizing tools like the Migration Toolkit for Virtualization (MTV) and the Migration Toolkit for Containers (MTC) to facilitate the transition between different environments.
+Installation and Configuration: Skills in configuring and maintaining various Red Hat products, including RH Satellite, RH Insights, RH Advanced Cluster Management, and many more, ensuring they are optimized for the organization's needs.

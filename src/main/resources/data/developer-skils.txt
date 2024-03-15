@@ -1,0 +1,12 @@
+Developers are primarily concerned with the creation, development, and maintenance of software. Their skill set includes a blend of programming languages, development frameworks, and methodologies that enable them to build software applications, contribute to community development, and engage in various stages of the software development lifecycle. Key skills for developers include:
+
+Community Development: Engaging with and contributing to open source communities and software development projects.
+Containerization: Utilizing technologies like Docker to package and deploy applications in a consistent environment.
+Jira & Confluence: Managing projects and documentation to streamline development workflows.
+Git, GitHub Actions, GitLab pipelines: Version control and automation of CI/CD processes to ensure code quality and facilitate collaboration.
+RHEL Development & Release Engineering for Containers Pipelines: Specializing in Red Hat Enterprise Linux (RHEL) environment development and managing release processes for containerized applications.
+Programming Languages: Proficiency in Java, JavaScript, Python, C/C++, GoLang, and Rust, enabling the creation of diverse and complex software solutions.
+Software Testing & Test Automation: Ensuring code quality and reliability through various testing methodologies and automation tools.
+RH Developer-centric Skills: Including RH AMQ, RH Application Foundations, RH Fuse / Fuse Online, RH Integration, among others, focusing on development and integration within the Red Hat ecosystem.
+Cloud Native Technologies: Knowledge of Kubernetes, Helm, Kustomize, and the development of OpenShift Operators to support scalable and resilient cloud-native applications.
+Agile Scrum, CI/CD, and DevOps Practices: Adopting agile methodologies and continuous integration/continuous deployment practices to enhance software delivery and team collaboration.
